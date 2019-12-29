@@ -2,6 +2,8 @@ package basic.tree.test;
 
 import basic.tree.AVLTree;
 
+import java.util.HashMap;
+
 /**
  * @author 罗璋||luozhang@cnpc.com.cn
  * Description TODO
@@ -11,6 +13,7 @@ import basic.tree.AVLTree;
  */
 public class AVLTreeTest {
     public static void main(String[] args){
+        HashMap
         AVLTree<Integer,Integer> tree = new AVLTree<>();
         tree.add(10,10);
         tree.add(6,6);
