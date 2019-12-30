@@ -13,7 +13,6 @@ import java.util.HashMap;
  */
 public class AVLTreeTest {
     public static void main(String[] args){
-        HashMap
         AVLTree<Integer,Integer> tree = new AVLTree<>();
         tree.add(10,10);
         tree.add(6,6);
