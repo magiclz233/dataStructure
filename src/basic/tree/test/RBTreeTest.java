@@ -13,7 +13,6 @@ import java.util.TreeMap;
  */
 public class RBTreeTest {
     public static void main(String[] args){
-        TreeMap
         RBTree<Integer,Integer> tree = new RBTree<>();
         tree.add(10,10);
         tree.add(6,6);
