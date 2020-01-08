@@ -1,4 +1,4 @@
-package basic.link;
+package datastructure.link;
 
 
 import java.util.ArrayList;

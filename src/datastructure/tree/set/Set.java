@@ -1,4 +1,4 @@
-package basic.tree.set;
+package datastructure.tree.set;
 
 /**
  * @author 罗璋||luozhang@cnpc.com.cn

@@ -1,9 +1,4 @@
-package basic.tree;
-
-import com.sun.org.apache.regexp.internal.RE;
-
-import java.util.Collections;
-import java.util.logging.Level;
+package datastructure.tree;
 
 /**
  * @author 罗璋||luozhang@cnpc.com.cn

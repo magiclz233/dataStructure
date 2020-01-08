@@ -1,4 +1,4 @@
-package basic.queue;
+package datastructure.queue;
 
 /**
  * 数组实现队列

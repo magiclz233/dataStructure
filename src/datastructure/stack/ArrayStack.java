@@ -1,4 +1,4 @@
-package basic.stack;
+package datastructure.stack;
 
 /**
  * 自己实现一个栈  利用数组实现

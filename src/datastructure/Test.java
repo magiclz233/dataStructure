@@ -1,7 +1,6 @@
-package basic;
+package datastructure;
 
 import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @author 罗璋||luozhang@cnpc.com.cn

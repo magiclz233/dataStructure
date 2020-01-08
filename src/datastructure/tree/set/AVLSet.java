@@ -1,6 +1,6 @@
-package basic.tree.set;
+package datastructure.tree.set;
 
-import basic.tree.AVLTree;
+import datastructure.tree.AVLTree;
 
 /**
  * @author 罗璋||luozhang@cnpc.com.cn

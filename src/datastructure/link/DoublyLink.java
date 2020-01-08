@@ -1,9 +1,6 @@
-package basic.link;
-
-import com.sun.org.apache.regexp.internal.RE;
+package datastructure.link;
 
 import java.util.LinkedList;
-import java.util.List;
 import java.util.NoSuchElementException;
 
 /**

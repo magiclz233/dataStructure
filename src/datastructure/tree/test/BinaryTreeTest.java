@@ -1,6 +1,6 @@
-package basic.tree.test;
+package datastructure.tree.test;
 
-import basic.tree.BinaryTree;
+import datastructure.tree.BinaryTree;
 
 /**
  * @author 罗璋||luozhang@cnpc.com.cn

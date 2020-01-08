@@ -1,4 +1,4 @@
-package basic.queue;
+package datastructure.queue;
 
 /**
  * @author 罗璋||luozhang@cnpc.com.cn

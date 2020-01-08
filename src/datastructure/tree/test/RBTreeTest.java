@@ -1,8 +1,6 @@
-package basic.tree.test;
+package datastructure.tree.test;
 
-import basic.tree.RBTree;
-
-import java.util.TreeMap;
+import datastructure.tree.RBTree;
 
 /**
  * @author 罗璋||luozhang@cnpc.com.cn

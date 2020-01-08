@@ -1,6 +1,4 @@
-package basic.queue;
-
-import com.sun.org.apache.regexp.internal.RE;
+package datastructure.queue;
 
 /**
  * @author 罗璋||luozhang@cnpc.com.cn

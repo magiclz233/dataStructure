@@ -1,8 +1,6 @@
-package basic.tree.test;
+package datastructure.tree.test;
 
-import basic.tree.AVLTree;
-
-import java.util.HashMap;
+import datastructure.tree.AVLTree;
 
 /**
  * @author 罗璋||luozhang@cnpc.com.cn

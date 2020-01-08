@@ -1,4 +1,4 @@
-package basic.stack;
+package datastructure.stack;
 
 /**
  * 链表实现栈

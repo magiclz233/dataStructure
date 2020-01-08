@@ -1,6 +1,4 @@
-package basic.tree;
-
-import java.util.TreeMap;
+package datastructure.tree;
 
 /**
  * @author 罗璋||luozhang@cnpc.com.cn
