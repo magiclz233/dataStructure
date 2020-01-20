@@ -1,6 +1,5 @@
 package thread.chapter9;
 
-import java.io.IOException;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
