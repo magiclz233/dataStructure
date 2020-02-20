@@ -22,6 +22,7 @@ public class RBTree<K extends Comparable<K>,V> {
         this.root = null;
         size = 0;
     }
+
     public boolean isEmpty(){
         return size == 0;
     }

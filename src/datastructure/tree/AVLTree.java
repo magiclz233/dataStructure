@@ -29,6 +29,7 @@ public class AVLTree<K extends Comparable<K>,V> {
     public V getRoot(){
         return root.value;
     }
+
     private Node root;
     private int size;
 
@@ -151,9 +152,11 @@ public class AVLTree<K extends Comparable<K>,V> {
 
        return x;
     }
+
     public void add(K k,V v){
         root = add(root,k,v);
     }
+
     private Node add(Node node,K key,V value){
         if(node == null){
             size ++;
