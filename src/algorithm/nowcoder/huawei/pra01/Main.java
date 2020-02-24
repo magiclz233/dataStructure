@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.nowcoder.huawei.pra01;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @description TODO
  * @date 2020/2/19 16:11
  */
-public class LastStr {
+public class Main {
 
     public static int lastStrLength(String str){
         String[] s = str.split(" ");

@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.nowcoder.huawei.pra02;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @description TODO
  * @date 2020/2/19 16:24
  */
-public class HavingCount {
+public class Main {
     public static int havingCount(String str, String s){
         String[] split = str.split("");
         int count = 0;

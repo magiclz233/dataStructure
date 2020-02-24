@@ -11,6 +11,7 @@ public class Test {
     public static void main(String[] args){
         Class<AnnoDemo> annoDemoClass = AnnoDemo.class;
         boolean annotation = annoDemoClass.isAnnotation();
+        System.out.println(annotation);
         Demo annotation1 = annoDemoClass.getAnnotation(Demo.class);
         String name = annotation1.name();
         String value = annotation1.value();

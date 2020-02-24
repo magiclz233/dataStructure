@@ -10,7 +10,7 @@ import java.util.Arrays;
  * @date 2020/1/7 20:13
  */
 public class ReflectTest {
-    public static void main(String[] args) throws ClassNotFoundException {
+    public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, InstantiationException {
         //通过类的静态变量获取Class对象
         Class<ConcreteClass> a = ConcreteClass.class;
 

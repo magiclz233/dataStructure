@@ -17,7 +17,7 @@ public class HashMapTest {
         /*
             (key == null) ? 0 : (h = key.hashCode()) ^ (h >>> 16);
          */
-        System.currentTimeMillis()
+        System.currentTimeMillis();
         int key = 131072;
         int h = Integer.hashCode(key);
         int i = h >>> 16;
