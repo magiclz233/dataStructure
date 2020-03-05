@@ -10,7 +10,7 @@ import java.util.NoSuchElementException;
  * @ClassName DoublyLink
  * @date 2019/12/23 17:44
  */
-public class DoublyLink<T> {
+public class    DoublyLink<T> {
     public static void main(String[] args){
       LinkedList<Integer> list = new LinkedList<>();
       list.add(1);
