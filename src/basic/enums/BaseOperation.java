@@ -31,6 +31,7 @@ public enum BaseOperation implements OperationI {
         }
     }
     public static void main(String[] args){
+
         System.out.println(BaseOperation.PLUS);
     }
 }
