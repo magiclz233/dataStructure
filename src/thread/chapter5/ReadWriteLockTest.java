@@ -16,7 +16,7 @@ public class ReadWriteLockTest {
 
     public static void main(String[] args) {
         ReadWriteLockTest readWriteLockTest = new ReadWriteLockTest();
-        
+
     }
 
     /**
@@ -30,6 +30,7 @@ public class ReadWriteLockTest {
             System.out.println("获得读锁:" + Thread.currentThread().getName() + "  " + System.currentTimeMillis());
             try {
                 Thread.sleep(3000);
+                System.out.println("读暂停3秒"+ Thread.currentThread().getName());
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
@@ -48,6 +49,7 @@ public class ReadWriteLockTest {
             System.out.println("获得写锁:" + Thread.currentThread().getName() + "  " + System.currentTimeMillis());
             try {
                 Thread.sleep(3000);
+                System.out.println("写暂停3秒"+ Thread.currentThread().getName());
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
