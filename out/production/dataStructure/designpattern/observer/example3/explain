@@ -1,5 +1,0 @@
-Subject 可观察者(主题)的父接口 可以实现他生成自定义的主题接口
-Observable 实现Subject接口的主题
-Observer 观察者父接口
-
-Observable是仿照java.util写的,也可以参照example1中的方式,直接实现接口生成定制的WeatherData主题
