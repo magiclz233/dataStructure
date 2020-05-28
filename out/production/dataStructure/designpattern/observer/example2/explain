@@ -1,0 +1,2 @@
+Java内置的观察者模式
+java.util包下面的Observer接口和Observable类
