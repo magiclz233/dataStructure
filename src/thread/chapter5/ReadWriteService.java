@@ -17,8 +17,8 @@ public class ReadWriteService extends Thread {
         service.start();
         service1.start();
         Thread.sleep(2000);
-        service.lockTest.write();
-        service1.lockTest.write();
+        System.out.println("main线程暂停2s");
+
     }
 
     public ReadWriteService(ReadWriteLockTest readWriteLockTest) {
@@ -28,5 +28,6 @@ public class ReadWriteService extends Thread {
     @Override
     public void run() {
         lockTest.read();
+        lockTest.write();
     }
 }

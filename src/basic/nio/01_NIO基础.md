@@ -1,5 +1,3 @@
-# NIO
-
 channel 通道
 
 buffer 缓冲区
@@ -91,6 +89,4 @@ Java NIO有以下的Buffer类型：
 - ShortBuffer
 
 除了MappedByteBuffer外，其他都是代表了不同的基本数据类型。MappedByteBuffer等会单独介绍
-
-
-
+test data test data
