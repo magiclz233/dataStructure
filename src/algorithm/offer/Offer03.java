@@ -12,15 +12,14 @@ import java.util.Iterator;
  */
 public class Offer03 {
     public static void main(String[] args) {
-        HashSet<Integer> set = new HashSet(5);
+        HashSet<Integer> set = new HashSet<>(5);
         set.add(1);
         set.add(1);
         set.add(2);
         set.add(4);
         set.add(3);
-        Iterator<Integer> iterator = set.iterator();
-        while (iterator.hasNext()){
-            System.out.println(iterator.next());
+        for (Integer integer : set) {
+            System.out.println(integer);
         }
     }
 }
