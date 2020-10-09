@@ -18,6 +18,7 @@ public class Offer03 {
         set.add(2);
         set.add(4);
         set.add(3);
+        set.add(3);
         for (Integer integer : set) {
             System.out.println(integer);
         }
