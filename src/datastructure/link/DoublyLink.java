@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.NoSuchElementException;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author 罗璋||magiclz233@163.com
  * Description TODO
  * @version 1.0
  * @ClassName DoublyLink

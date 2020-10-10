@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author 罗璋||magiclz233@163.com
  * Description TODO 单向链表
  * @version 1.0
  * @ClassName SingleLink
