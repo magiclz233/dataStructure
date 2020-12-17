@@ -5,7 +5,7 @@ import java.lang.management.ThreadInfo;
 import java.lang.management.ThreadMXBean;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO JMX查看一个普通Java程序包含那些线程
  * @version 1.0
  * @ClassName MultiThread

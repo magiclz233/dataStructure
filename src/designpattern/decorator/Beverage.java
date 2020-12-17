@@ -1,7 +1,7 @@
 package designpattern.decorator;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 咖啡产品超类
  * @version 1.0
  * @ClassName Beverage

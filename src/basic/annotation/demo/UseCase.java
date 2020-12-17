@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO
  * @version 1.0
  * @ClassName UseCase

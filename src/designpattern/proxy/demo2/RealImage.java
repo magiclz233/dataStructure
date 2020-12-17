@@ -1,7 +1,7 @@
 package designpattern.proxy.demo2;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO
  * @version 1.0
  * @ClassName RealImage

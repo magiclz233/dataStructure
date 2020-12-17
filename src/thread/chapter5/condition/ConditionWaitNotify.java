@@ -5,7 +5,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO
  * @version 1.0
  * @ClassName ConditionWaitNotify

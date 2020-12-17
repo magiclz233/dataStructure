@@ -3,7 +3,7 @@ package designpattern.observer.example2;
 import java.util.Observable;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 继承Observable的具体主题
  * @version 1.0
  * @ClassName WeatherData

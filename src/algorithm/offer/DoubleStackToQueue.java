@@ -5,7 +5,7 @@ import com.sun.org.apache.bcel.internal.generic.POP;
 import java.util.Stack;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO
  * @version 1.0
  * @ClassName DoubleStackToQueue

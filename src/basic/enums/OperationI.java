@@ -1,7 +1,7 @@
 package basic.enums;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 枚举实现接口
  * @version 1.0
  * @ClassName OperationI

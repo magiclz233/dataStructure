@@ -1,7 +1,7 @@
 package designpattern.singleton;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 单例模式-懒汉式(非线程安全)
  * @version 1.0
  * @ClassName SingletonPattern

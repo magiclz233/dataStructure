@@ -3,7 +3,7 @@ package datastructure.tree.set;
 import datastructure.tree.AVLTree;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 基于AVL树的set结构
  * @version 1.0
  * @ClassName AVLSet

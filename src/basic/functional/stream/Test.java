@@ -7,7 +7,7 @@ import java.util.stream.DoubleStream;
 import java.util.stream.Stream;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO
  * @version 1.0
  * @ClassName Test

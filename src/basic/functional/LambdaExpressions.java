@@ -1,7 +1,7 @@
 package basic.functional;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO Lambda表达式
  * @version 1.0
  * @ClassName LambdaExpressions

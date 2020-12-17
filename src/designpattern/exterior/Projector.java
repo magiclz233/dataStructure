@@ -1,7 +1,7 @@
 package designpattern.exterior;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 投影仪
  * @version 1.0
  * @ClassName projector

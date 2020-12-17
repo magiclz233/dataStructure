@@ -1,7 +1,7 @@
 package basic.annotation.demo2;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 嵌套注释的样本
  * @version 1.0
  * @ClassName Uniqueness

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 基于反射的注释处理器 {java注解.database.TableCreator注解.database.Member}
  * @version 1.0
  * @ClassName TableCreator

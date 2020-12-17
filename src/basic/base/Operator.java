@@ -1,7 +1,7 @@
 package basic.base;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 运算符
  * @version 1.0
  * @ClassName Operator

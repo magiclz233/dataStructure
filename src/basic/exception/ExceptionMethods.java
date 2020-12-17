@@ -1,7 +1,7 @@
 package basic.exception;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 如何使用Exception类型的方法
  * @version 1.0
  * @ClassName ExceptionMethods

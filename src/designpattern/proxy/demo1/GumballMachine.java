@@ -1,7 +1,7 @@
 package designpattern.proxy.demo1;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 口香糖机
  * @version 1.0
  * @ClassName GumballMachine

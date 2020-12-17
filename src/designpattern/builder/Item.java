@@ -1,7 +1,7 @@
 package designpattern.builder;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 食物条目
  * @version 1.0
  * @ClassName item

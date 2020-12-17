@@ -1,7 +1,7 @@
 package designpattern.exterior;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 音响
  * @version 1.0
  * @ClassName Sound

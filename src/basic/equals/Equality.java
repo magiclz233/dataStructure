@@ -3,7 +3,7 @@ package basic.equals;
 import java.util.Objects;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO
  * @version 1.0
  * @ClassName Equality

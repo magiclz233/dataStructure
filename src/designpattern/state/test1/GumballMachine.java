@@ -1,7 +1,7 @@
 package designpattern.state.test1;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 糖果机
  * @version 1.0
  * @ClassName GumballMachine

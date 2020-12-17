@@ -6,7 +6,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 观察者实现Observer接口，重写update方法
  * @version 1.0
  * @ClassName ForecastDisplay

@@ -6,7 +6,7 @@ import java.lang.reflect.Proxy;
 import java.time.LocalDateTime;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO
  * @version 1.0
  * @ClassName LogHandler

@@ -10,7 +10,7 @@ import java.nio.channels.DatagramChannel;
 
 /**
  * TODO DatagramChannel 服务端:接收客户端发送消息，收取到消息后，给发送方回应
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO
  * @version 1.0
  * @ClassName DatagramChannelTest

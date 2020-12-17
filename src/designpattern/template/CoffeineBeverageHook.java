@@ -1,7 +1,7 @@
 package designpattern.template;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 咖啡因类饮品超类
  * @version 1.0
  * @ClassName CaffeineBeverage

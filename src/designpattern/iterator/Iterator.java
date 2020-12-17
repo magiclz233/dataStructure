@@ -1,7 +1,7 @@
 package designpattern.iterator;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 自己实现的迭代器
  * @version 1.0
  * @ClassName Iterator

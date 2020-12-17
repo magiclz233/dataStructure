@@ -5,7 +5,7 @@ import java.io.StringWriter;
 import java.util.logging.Logger;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO
  * @version 1.0
  * @ClassName LoggingExceptions2

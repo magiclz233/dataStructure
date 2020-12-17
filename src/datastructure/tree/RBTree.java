@@ -1,7 +1,7 @@
 package datastructure.tree;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 红黑树
  * @version 1.0
  * @ClassName RedBlackTree

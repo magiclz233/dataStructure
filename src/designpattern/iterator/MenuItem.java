@@ -1,7 +1,7 @@
 package designpattern.iterator;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 菜单
  * @version 1.0
  * @ClassName MenuItem

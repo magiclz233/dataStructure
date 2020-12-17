@@ -1,7 +1,7 @@
 package designpattern.proxy.demo1;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO 糖果监视器
  * @version 1.0
  * @ClassName GumballMonitor

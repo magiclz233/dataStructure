@@ -3,7 +3,7 @@ package thread.chapter7;
 import java.util.concurrent.atomic.AtomicIntegerFieldUpdater;
 
 /**
- * @author 罗璋||luozhang@cnpc.com.cn
+ * @author magic_lz
  * Description TODO
  * @version 1.0
  * @ClassName AtomicIntegerFieldUpdaterTest
