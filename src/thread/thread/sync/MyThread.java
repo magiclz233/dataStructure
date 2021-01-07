@@ -19,7 +19,6 @@ public class MyThread implements Runnable {
         synchronized (MyThread.class){
             i--;
             System.out.println(Thread.currentThread().getName()+"卖出去一张：剩余数量："+i);
-
         }
     }
 }
