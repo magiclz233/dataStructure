@@ -14,7 +14,7 @@ public class FileToWriter {
     public static void main(String[] args) {
         FileWriter fileWriter = null;
         try {
-            fileWriter = new FileWriter(new File(file));
+            fileWriter = new FileWriter(file);
             fileWriter.write("file writer \n fileName:Magic");
             fileWriter.close();
             System.out.println("FileWriter Success!");
