@@ -1,7 +1,5 @@
 package algorithm.sort.插入排序;
 
-import thread.chapter4.JDBCPool;
-
 import java.util.Arrays;
 
 /**
