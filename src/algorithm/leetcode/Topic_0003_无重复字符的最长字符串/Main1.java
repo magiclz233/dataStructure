@@ -16,6 +16,24 @@ public class Main1 {
             滑动窗口的办法
      */
 
+     public static int length1(String s){
+        Set<Character> set = new HashSet<>();
+        int left = 0, maxLen = 0;
+        
+        for (int right = 0; right < s.length(); right++) {
+            char c = s.charAt(right);
+            // 当遇到重复字符时，移动左指针
+            while (set.contains(c)) {
+                set.remove(s.charAt(left));
+                left++;
+            }
+            set.add(c);
+            maxLen = Math.max(maxLen, right - left + 1);
+        }
+        
+        return maxLen;
+     }
+
     public static int length(String str){
         int n = str.length();
         Set<Character> set = new HashSet<>();
