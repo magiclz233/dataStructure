@@ -1,7 +1,5 @@
 package basic.annotation.demo2;
 
-import com.sun.org.apache.regexp.internal.RE;
-
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 import java.util.ArrayList;

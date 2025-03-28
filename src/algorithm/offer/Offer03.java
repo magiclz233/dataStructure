@@ -1,7 +1,6 @@
 package algorithm.offer;
 
 import java.util.HashSet;
-import java.util.Iterator;
 
 /**
  * @author 罗璋|luozhang@cnpc.com.cn

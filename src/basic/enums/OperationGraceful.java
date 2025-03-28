@@ -1,7 +1,5 @@
 package basic.enums;
 
-import java.util.Comparator;
-
 /**
  * @author magic_lz
  * Description TODO

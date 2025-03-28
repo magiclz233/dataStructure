@@ -1,7 +1,6 @@
 package datastructure;
 
-import java.util.*;
-import java.util.zip.ZipEntry;
+import java.util.HashMap;
 
 /**
  * @author magic_lz

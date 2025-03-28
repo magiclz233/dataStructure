@@ -1,7 +1,6 @@
 package basic.nio.example1;
 
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 import java.nio.ByteBuffer;
 import java.nio.channels.Pipe;
 
