@@ -1,6 +1,5 @@
 package basic.io.file;
 
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 

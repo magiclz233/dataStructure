@@ -1,6 +1,8 @@
 package algorithm.nowcoder.huawei.pra08;
 
-import java.util.*;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.TreeMap;
 
 /**
  * @author 罗璋|luozhang@cnpc.com.cn

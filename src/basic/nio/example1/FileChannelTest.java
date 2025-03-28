@@ -1,6 +1,5 @@
 package basic.nio.example1;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.nio.ByteBuffer;

@@ -1,7 +1,5 @@
 package algorithm.offer.Topic_0027_二叉树的镜像;
 
-import java.util.Stack;
-
 /**
  * @author magic_lz
  * @version 1.0

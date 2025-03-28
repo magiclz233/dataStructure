@@ -1,6 +1,8 @@
 package algorithm.nowcoder.huawei.pra09;
 
-import java.util.*;
+import java.util.LinkedHashSet;
+import java.util.Scanner;
+import java.util.Set;
 
 /**
  * @author 罗璋|luozhang@cnpc.com.cn

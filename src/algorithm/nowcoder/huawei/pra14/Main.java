@@ -1,6 +1,9 @@
 package algorithm.nowcoder.huawei.pra14;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Scanner;
 
 /**
  * @author 罗璋|luozhang@cnpc.com.cn

@@ -1,8 +1,5 @@
 package algorithm.offer.Topic_0062_圆圈中剩下最后的数字;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * @author magic_lz
  * @version 1.0

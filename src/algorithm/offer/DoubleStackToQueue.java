@@ -1,7 +1,5 @@
 package algorithm.offer;
 
-import com.sun.org.apache.bcel.internal.generic.POP;
-
 import java.util.Stack;
 
 /**
