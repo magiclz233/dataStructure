@@ -10,7 +10,4 @@ public class Main {
 
     }
 
-    public static String maxStr(String str){
-
-    }
 }
